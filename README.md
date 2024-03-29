@@ -1,16 +1,11 @@
 # linkkeep
 
-A new Flutter project.
+I needed a place to keep all the links to blogs that I love to read.
 
-## Getting Started
+And, yes, I have heard of bookmarks. But, they tie me to a browser and force me to set up cloud sync and give daddy Google all my personal data.
 
-This project is a starting point for a Flutter application.
+I think this is better. It's like Pocket, if Pocket served this very, very specific need that I have.
 
-A few resources to get you started if this is your first Flutter project:
+Anyways, its for personal use.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For now ;)
